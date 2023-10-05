@@ -76,10 +76,10 @@ https://www.photonengine.com/fusion#
 ## Demostracion en unity
 Clases involucradas  
 
-![Descripción de la imagen](/images/multiplayer1.png "img1")  
+![Descripción de la imagen](/images/Multiplayer1.png "img1")  
 
 Core loop  
-![Descripción de la imagen](/images/multiplayer0.png "img1")  
+![Descripción de la imagen](/images/Multiplayer0.png "img1")  
 
 ## Desplegar como servicio
 
@@ -92,7 +92,7 @@ https://heroiclabs.com/multiplayer/
 - Dokerizar
 - Redis (mach y cache)
 - Kubernetes  
-![Descripción de la imagen](/images/multiplayer2.png "img1")  
+![Descripción de la imagen](/images/Multiplayer2.png "img1")  
 
 
 ## Referencias
